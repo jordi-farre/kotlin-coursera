@@ -1,4 +1,4 @@
-package week2
+package week2.playground
 
 
 fun Char.isValid() = this in 'A'..'Z' || this in 'a'..'z' || this in '0'..'9' || this == '_'
